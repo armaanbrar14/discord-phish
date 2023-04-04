@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca9054f4.css",
+    "main.js": "/static/js/main.41804b06.js",
+    "static/js/377.43111240.chunk.js": "/static/js/377.43111240.chunk.js",
+    "static/media/background.jpg": "/static/media/background.a4d7a15bcab6b7db2d4c.jpg",
+    "static/media/background.png": "/static/media/background.f92083a193e217d11ca9.png",
+    "static/media/whitneysemibold.otf": "/static/media/whitneysemibold.3eb3b8ffb7ce6e9bd0de.otf",
+    "static/media/whitneybook.otf": "/static/media/whitneybook.4812f96cb9a630349a71.otf",
+    "static/media/whitneymedium.otf": "/static/media/whitneymedium.cbc95f17e2ae0622f573.otf",
+    "static/media/qr.png": "/static/media/qr.fc749b961d055886b332.png",
+    "index.html": "/index.html",
+    "main.ca9054f4.css.map": "/static/css/main.ca9054f4.css.map",
+    "main.41804b06.js.map": "/static/js/main.41804b06.js.map",
+    "377.43111240.chunk.js.map": "/static/js/377.43111240.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca9054f4.css",
+    "static/js/main.41804b06.js"
+  ]
+}
